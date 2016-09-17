@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+  <!--Comment test -->
     <meta charset="UTF-8">
     <title>Persian AdminLTE 2 | Dashboard</title>
     <!-- Tell the browser to be responsive to screen width -->
